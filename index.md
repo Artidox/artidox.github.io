@@ -2,7 +2,7 @@
 
 <head>
     <script
-        type='text/javascript'>  var d = '<data:blog.url/>'; d = d.replace(/.*\/\/[^\/]*/, ''); location.href = 'https://allmylinks.com/artidox';</script>
+        type='text/javascript'>  var d = '<data:blog.url/>'; d = d.replace(/.*\/\/[^\/]*/, ''); location.href = 'https://artidox.glitch.me';</script>
     <title>Artidox 🤠</title>
 </head>
 
